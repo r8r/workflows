@@ -1,2 +1,2 @@
 I am a newer file.
-With a newer line.
+With another new line…
